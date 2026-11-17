@@ -1,5 +1,7 @@
 # Noble Spark — a Python browser for Muse
 
+<img width="1284" height="692" alt="Screenshot 2026-11-17 072755" src="https://github.com/user-attachments/assets/52d93165-3c22-4ac8-bc7e-2adc9c7e2a82" />
+
 A headless Chromium browser, written in Python, built for Muse to drive.
 No window, no buttons to stare at. Muse opens pages, reads text, clicks,
 fills forms, and takes screenshots through code.
